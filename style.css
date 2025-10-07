@@ -6,7 +6,8 @@ body {
 
 .kartuprofil img {
   width: 150px;
-  border-radius: 100%;
+  heigt: 150px;
+  border-radius: 50%;
 }
 
 .kartuprofil {
